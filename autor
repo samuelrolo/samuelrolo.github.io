@@ -1,0 +1,65 @@
+<section id="autor" class="container" style="padding: 3rem 0; margin-top: 2rem;">
+    <h2 style="color: #2c3e50; margin-bottom: 2rem; text-align: center;">SOBRE O AUTOR</h2>
+    
+    <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem;">
+        <!-- Coluna da Foto -->
+        <div style="flex: 1; min-width: 300px; text-align: center;">
+            <img src="autor.jpg" alt="Samuel Rolo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 5px solid #3498db;">
+            <h3 style="margin-top: 1rem;">Samuel Rolo</h3>
+            <p style="font-style: italic; margin-bottom: 1.5rem;">"A vida é mais do que o trabalho. E o trabalho pode ser mais do que uma obrigação"</p>
+            
+            <!-- Ícones de Redes Sociais com Font Awesome -->
+            <div style="display: flex; justify-content: center; gap: 1rem; margin-top: 1rem;">
+                <a href="https://www.linkedin.com/in/samuelrolo/" target="_blank" style="text-decoration: none;">
+                    <div style="width: 40px; height: 40px; background-color: #0077B5; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white;">
+                        <i class="fab fa-linkedin-in"></i>
+                    </div>
+                </a>
+                <a href="https://www.instagram.com/share2inspire_/" target="_blank" style="text-decoration: none;">
+                    <div style="width: 40px; height: 40px; background-color: #E1306C; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white;">
+                        <i class="fab fa-instagram"></i>
+                    </div>
+                </a>
+                <a href="https://www.facebook.com/samuel.rolo" target="_blank" style="text-decoration: none;">
+                    <div style="width: 40px; height: 40px; background-color: #3B5998; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white;">
+                        <i class="fab fa-facebook-f"></i>
+                    </div>
+                </a>
+                <a href="https://api.whatsapp.com/send?phone=351961925050" target="_blank" style="text-decoration: none;">
+                    <div style="width: 40px; height: 40px; background-color: #25D366; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white;">
+                        <i class="fab fa-whatsapp"></i>
+                    </div>
+                </a>
+                <a href="https://linktr.ee/Samuelrolo" target="_blank" style="text-decoration: none;">
+                    <div style="width: 40px; height: 40px; background-color: #43E660; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white;">
+                        <i class="fas fa-link"></i>
+                    </div>
+                </a>
+            </div>
+        </div>
+        
+        <!-- Coluna da Biografia -->
+        <div style="flex: 2; min-width: 300px;">
+            <p>Com quase 14 anos de experiência em consultoria em empresas de referência nacional e internacional, uma sólida carreira dedicada à transformação organizacional e gestão da mudança.</p>
+            
+            <p>Durante este percurso, tive a oportunidade de trabalhar em projetos de consultoria com elevada complexidade e abrangência global em empresas de vários setores, desenvolvendo metodologia personalizada que combina rigor técnico, com a compreensão da importância do fator humano na transformação.</p>
+            
+            <p>A minha experiência abrange implementações de programas de mudança em diferentes países, coordenando equipas multidisciplinares e multiculturais.</p>
+            
+            <p>A minha abordagem da gestão da mudança é construída com convicção de que as pessoas são o elemento central para o sucesso de uma transformação.</p>
+            
+            <h4 style="color: #2c3e50; margin-top: 1.5rem;">Competências específicas:</h4>
+            <ul style="list-style-type: disc; padding-left: 1.5rem;">
+                <li>Diagnóstico organizacional e identificação de barreiras à mudança;</li>
+                <li>Desenvolvimento de governance para a gestão da mudança e programas de transformação;</li>
+                <li>Desenvolvimento de estratégias de envolvimento e compromisso;</li>
+                <li>Definição de estratégias de capacitação e entrega de ações no terreno.</li>
+            </ul>
+            
+            <div style="background-color: #f0f0f0; padding: 1rem; border-left: 4px solid #3498db; margin-top: 1.5rem;">
+                <h4 style="color: #2c3e50; margin-top: 0;">RECONHECIMENTO</h4>
+                <p>Autor de formação académica especializada em Recursos Humanos, foi reconhecido por vários dos seus clientes e colegas, tendo sido nomeado para o prémio "People Management Challenge" e "Global HR Awards" para Consultorias para Gestão de Pessoas.</p>
+            </div>
+        </div>
+    </div>
+</section>
