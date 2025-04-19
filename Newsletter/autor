@@ -4,7 +4,7 @@
   <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem; padding: 0 20px;">
     <!-- Coluna da Foto -->
     <div style="flex: 1; min-width: 250px; text-align: center;">
-      <img src="autor.jpg" alt="Samuel Rolo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid white;">
+      <img src="Fotoperfilsamuelrolor.jpg" alt="Samuel Rolo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid white;">
       <div style="background-color: #ffcc00; color: black; padding: 5px; margin-top: 10px; border-radius: 5px; display: inline-block;">
         <span style="font-weight: bold;">Top Voice</span>
       </div>
