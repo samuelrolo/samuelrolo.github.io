@@ -6,12 +6,8 @@
     <div style="flex: 1; min-width: 250px; text-align: center;">
       <img src="Fotoperfilsamuelrolo.jpg" alt="Samuel Rolo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid white;">
       <div style="background-color: #ffcc00; color: black; padding: 5px; margin-top: 10px; border-radius: 5px; display: inline-block;">
-        <span style="font-weight: bold;">Top Voice</span>
-      </div>
       <div style="background-color: #ffcc00; color: black; padding: 5px; margin-top: 5px; border-radius: 5px; display: inline-block;">
-        <span style="font-size: 0.8rem;">Human Capital/Organization Transformation</span>
       </div>
-    </div>
 
     <!-- Coluna da Bio -->
     <div style="flex: 2; min-width: 300px;">
@@ -21,7 +17,7 @@
       
       <p>A minha experiência abrange implementações de programas de tendência em diferentes países, coordenando equipas multidisciplinares e multiculturais.</p>
       
-      <p>A minha abordagem de gestão da mudança é construída com convicção de que as pessoas são o elemento central para o sucesso de qualquer transformação.</p>
+      <p>A minha abordagem de gestão da mudança é construída com a convicção de que as pessoas são o elemento central para o sucesso de qualquer transformação.</p>
       
       <p>Ao longo dos anos, desenvolvi competências específicas em:</p>
       <ul style="list-style-type: disc; margin-left: 20px;">
@@ -66,6 +62,6 @@
   </div>
   
 <div style="margin-top: 2rem; text-align: center; font-size: 0.8rem; padding: 20px;">
-  <p>Licenciado em Gestão de Recursos Humanos pelo ISCTE-IUL, média de 16 | Parte do IBS TOP 15+ | Certificação em Change Management | Programa Avançado em Gestão de Pessoas | Certificação em Digital Transformation</p>
+  <p>Licenciado em Gestão de Recursos Humanos pelo ISCTE-IUL | Parte do IBS TOP 15+ | Gestão de Conflitos e Negociação - Nova SBE | Certificação em Digital Transformation </p>
 </div>
 </section>
