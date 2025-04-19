@@ -1,13 +1,15 @@
 <section id="autor" class="container" style="padding: 3rem 0; margin-top: 2rem; background-color: #006080; color: white;">
   <h2 style="color: white; margin-bottom: 2rem; text-align: left; font-size: 2.5rem; padding-left: 20px;">SOBRE O AUTOR</h2>
 
-  <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem; padding: 0 20px;">
-    <!-- Coluna da Foto -->
-    <div style="flex: 1; min-width: 250px; text-align: center;">
-      <img src="Fotoperfilsamuelrolo.jpg" alt="Samuel Rolo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid white;">
-      <div style="background-color: #ffcc00; color: black; padding: 5px; margin-top: 10px; border-radius: 5px; display: inline-block;">
-      <div style="background-color: #ffcc00; color: black; padding: 5px; margin-top: 5px; border-radius: 5px; display: inline-block;">
-      </div>
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+  <img src="Fotoperfilsamuelrolo.jpg" alt="Samuel Rolo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid white;">
+  <div style="background-color: #ffcc00; color: black; padding: 5px; margin-top: 10px; border-radius: 5px; display: inline-block;">
+    <span style="font-weight: bold;">Top Voice</span>
+  </div>
+  <div style="background-color: #ffcc00; color: black; padding: 5px; margin-top: 5px; border-radius: 5px; display: inline-block;">
+    <span style="font-size: 0.8rem;">Human Capital/Organization Transformation</span>
+  </div>
+<
 
     <!-- Coluna da Bio -->
     <div style="flex: 2; min-width: 300px;">
