@@ -4,7 +4,7 @@
   <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem;">
     <!-- Coluna da Foto -->
     <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="autor.jpg" alt="Samuel Rolo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+      <img src="Fotoperfilsamuelrolo" alt="Samuel Rolo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
       <h3 style="margin-top: 1rem;">Samuel Rolo</h3>
       <p style="font-style: italic; margin-bottom: 1.5rem;">"A vida é mais do que o trabalho. E o trabalho é mais do que uma fonte de rendimento."</p>
     </div>
@@ -12,8 +12,8 @@
     <!-- Coluna da Bio -->
     <div style="flex: 2; min-width: 300px;">
       <p>Samuel Rolo é especialista em transformação organizacional e liderança humana, com mais de 14 anos de experiência em consultoria estratégica em empresas de topo.</p>
-      <p>Fundador da Share2Inspire, dedica-se a ajudar profissionais e organizações a navegarem pelos desafios da mudança com confiança e autenticidade, promovendo ambientes de trabalho mais humanos e sustentáveis.</p>
-      <p>Através de coaching, palestras e conteúdos digitais, Samuel compartilha sua experiência e conhecimento para inspirar líderes a criarem culturas organizacionais que valorizam tanto o desempenho quanto o bem-estar das pessoas.</p>
+      <p>Fundador da Share2Inspire, dedica-se a ajudar pessdoas a navegarem pelos desafios da mudança com confiança e autenticidade, promovendo ambientes de trabalho mais humanos e sustentáveis.</p>
+      <p>Através de coaching, palestras e conteúdos digitais, Samuel partilha sua experiência e conhecimento para inspirar líderes a criarem culturas organizacionais que valorizam tanto o desempenho quanto o bem-estar das pessoas.</p>
     </div>
   </div>
 
