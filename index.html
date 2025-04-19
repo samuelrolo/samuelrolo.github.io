@@ -12,31 +12,39 @@
             padding: 0;
             color: #333;
         }
+        
         header {
             background-color: #000000;
             color: white;
             text-align: center;
             padding: 2rem 0;
         }
+        
         .container {
             max-width: 1100px;
             margin: auto;
             padding: 0 2rem;
         }
+        
         section {
             padding: 3rem 0;
         }
+        
         h1 {
             font-size: 2.5rem;
             margin-bottom: 1rem;
         }
+        
         h2 {
-            color: #000000;
-            margin-bottom: 1.5rem;
+            color: #2c3e50;
+            margin-bottom: 2rem;
+            text-align: center;
         }
+        
         p {
             margin-bottom: 1rem;
         }
+        
         .btn {
             display: inline-block;
             background: #3498db;
@@ -48,9 +56,7 @@
             border-radius: 5px;
             margin-top: 1rem;
         }
-        .btn:hover {
-            background: #2980b9;
-        }
+        
         footer {
             background: #2c3e50;
             color: white;
@@ -58,21 +64,54 @@
             padding: 2rem 0;
             margin-top: 2rem;
         }
+        
+        /* Menu de navegação */
+        nav {
+            background-color: #333;
+            overflow: hidden;
+            text-align: center;
+        }
+        
+        nav a {
+            display: inline-block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+        
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        
+        nav a.active {
+            background-color: #4CAF50;
+            color: white;
+        }
     </style>
 </head>
 <body>
-  <header>
-    <div class="container">
-        <img src="logo.jpg" alt="Share2Inspire Logo" style="max-width: 200px; margin-bottom: 20px;">
-        <h1>Share2Inspire</h1>
-        <p>Inspiring Change, Humanizing Work</p>
-    </div>
-</header>
+    <header>
+        <div class="container">
+            <img src="logo.jpg" alt="Share2Inspire Logo" style="max-width: 200px; margin-bottom: 20px;">
+            <h1>Share2Inspire</h1>
+            <p>Inspiring Change, Humanizing Work</p>
+        </div>
+    </header>
+    
+    <!-- Menu de navegação -->
+    <nav>
+        <a href="#" class="active">Início</a>
+        <a href="#autor">Sobre o Autor</a>
+        <a href="Newsletter/index.html">Newsletter</a>
+        <a href="#contato">Contato</a>
+    </nav>
 
     <section class="container">
         <h2>De onde nasceu a Share2Inspire?</h2>
-        <p>A Share2Inspire nasce do conhecimento e da experiência adquiridos ao longo de mais de 14 anos dedicados à gestão e implementação de programas de transformação e mudança organizacional em empresas na Europa, África e América.
-Este percurso é resultado da carreira profissional do Samuel em empresas de consultoria de topo, onde desenvolveu projetos estratégicos que impactaram positivamente pessoas, equipas e organizações.</p>
+        <p>A Share2Inspire nasce do conhecimento e da experiência adquiridos ao longo de mais de 14 anos dedicados à gestão e implementação de programas de transformação e mudança organizacional em empresas na Europa, África e América. Este percurso é resultado da carreira profissional do Samuel em empresas de consultoria de topo, onde desenvolveu projetos estratégicos que impactaram positivamente pessoas, equipas e organizações.</p>
         <p>Inspirar, transformar e capacitar pessoas a navegarem com confiança e humanidade pelos desafios da mudança. Através de soluções práticas e personalizadas, promovemos uma cultura de crescimento, adaptabilidade e liderança consciente.</p>
         <a href="#contato" class="btn">Fala comigo!</a>
     </section>
@@ -80,20 +119,23 @@ Este percurso é resultado da carreira profissional do Samuel em empresas de con
     <section class="container" style="background-color: #f9f9f9; padding: 3rem 2rem;">
         <h2>Como posso ajudar?</h2>
         <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-            <div style="flex: 1; min-width: 300px; margin: 1rem; padding: 1.5rem; background: white; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+            <div style="flex: 1; min-width: 300px; margin: 1rem; padding: 1.5rem; background: white; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
                 <h3>Coaching</h3>
                 <p>Apoio individual a profissionais que procuram desenvolver a sua liderança, reforçar a confiança em momentos de mudança ou trabalhar competências como a comunicação e a gestão emocional.</p>
             </div>
-            <div style="flex: 1; min-width: 300px; margin: 1rem; padding: 1.5rem; background: white; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+            <div style="flex: 1; min-width: 300px; margin: 1rem; padding: 1.5rem; background: white; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
                 <h3>Talks e Momentos de Inspiração</h3>
                 <p>Sessões práticas e dinâmicas sobre temas como liderança humana, comunicação autêntica, gestão da mudança e construção de culturas organizacionais saudáveis.</p>
             </div>
-            <div style="flex: 1; min-width: 300px; margin: 1rem; padding: 1.5rem; background: white; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+            <div style="flex: 1; min-width: 300px; margin: 1rem; padding: 1.5rem; background: white; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
                 <h3>Conteúdos Digitais</h3>
                 <p>Desenvolvimento de conteúdos digitais — como publicações, vídeos ou newsletters — com dicas práticas e mensagens transformadoras.</p>
             </div>
         </div>
     </section>
+
+    <!-- Incluir a seção do autor aqui -->
+    <div id="autor-container"></div>
 
     <section id="contato" class="container">
         <h2>Fala comigo</h2>
@@ -107,5 +149,22 @@ Este percurso é resultado da carreira profissional do Samuel em empresas de con
             <p>&copy; 2025 Share2Inspire. Todos os direitos reservados.</p>
         </div>
     </footer>
+
+    <script>
+        // Função para carregar a seção do autor
+        function carregarSecaoAutor() {
+            fetch('autor')
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('autor-container').innerHTML = data;
+                })
+                .catch(error => console.error('Erro ao carregar a seção do autor:', error));
+        }
+
+        // Carregar a seção do autor quando a página for carregada
+        window.onload = function() {
+            carregarSecaoAutor();
+        };
+    </script>
 </body>
 </html>
