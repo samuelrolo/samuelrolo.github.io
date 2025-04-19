@@ -1,3 +1,63 @@
+<section id="autor" class="container" style="padding: 3rem 0; margin-top: 2rem; background-color: #006080; color: white;">
+  <h2 style="color: white; margin-bottom: 2rem; text-align: left; font-size: 2.5rem; padding-left: 20px;">SOBRE O AUTOR</h2>
+
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+  <img src="Fotoperfilsamuelrolo.jpg" alt="Samuel Rolo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid white;">
+  <div style="background-color: #ffcc00; color: black; padding: 5px; margin-top: 10px; border-radius: 5px; display: inline-block;">
+    <span style="font-weight: bold;">Top Voice</span>
+  </div>
+  <div style="background-color: #ffcc00; color: black; padding: 5px; margin-top: 5px; border-radius: 5px; display: inline-block;">
+    <span style="font-size: 0.8rem;">Human Capital/Organization Transformation</span>
+  </div>
+<
+
+    <!-- Coluna da Bio -->
+    <div style="flex: 2; min-width: 300px;">
+      <p>Com quase 14 anos de experiência em consultoria em empresas de referência global, construí uma sólida carreira na área de transformação organizacional e gestão da mudança.</p>
+      
+      <p>Durante esta jornada, tive o privilégio de liderar mais de 20 projetos com elevada complexidade e abrangência global em empresas de vários setores, desenvolvendo sensibilidade e personalização na abordagem técnica, com a compreensão da importância do fator humano na transformação.</p>
+      
+      <p>A minha experiência abrange implementações de programas de tendência em diferentes países, coordenando equipas multidisciplinares e multiculturais.</p>
+      
+      <p>A minha abordagem de gestão da mudança é construída com a convicção de que as pessoas são o elemento central para o sucesso de qualquer transformação.</p>
+      
+      <p>Ao longo dos anos, desenvolvi competências específicas em:</p>
+      <ul style="list-style-type: disc; margin-left: 20px;">
+        <li>Avaliação organizacional e identificação de barreiras à mudança;</li>
+        <li>Definição de modelos de governance para a gestão da mudança em programas de transformação;</li>
+        <li>Desenvolvimento de estratégias de envolvimento e compromisso;</li>
+        <li>Definição de estratégias de comunicação e formação no terreno.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div style="margin-top: 2rem; padding: 0 20px;">
+    <h3 style="color: white; background-color: #ffcc00; display: inline-block; padding: 5px 15px; color: black;">CONTRIBUIÇÕES PARA A ÁREA</h3>
+    
+    <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 1rem;">
+      <div style="flex: 1; min-width: 300px;">
+        <p style="font-weight: bold;">Como palestrante e/ou autor de:</p>
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li>• Conferências de Recursos Humanos</li>
+          <li>• Artigos sobre Transformação Digital</li>
+          <li>• Webinars sobre Gestão da Mudança</li>
+          <li>• Human Resources Management Challenges</li>
+          <li>• Transformação Digital no Mundo Corporativo</li>
+        </ul>
+        <p style="background-color: #ffcc00; color: black; padding: 5px; display: inline-block; margin-top: 10px;">LINKEDIN</p>
+        <p>+9.000 seguidores | +500 conexões</p>
+        <p style="background-color: #ffcc00; color: black; padding: 5px; display: inline-block; margin-top: 10px;">NEWSLETTER</p>
+        <p>People Management Challenges</p>
+        <p>+1.300 subscritores</p>
+      </div>
+      
+      <div style="flex: 1; min-width: 300px;">
+        <p style="font-weight: bold; background-color: #ffcc00; color: black; padding: 5px; display: inline-block;">RECONHECIMENTO</p>
+        <p>Ao longo da minha carreira, fui reconhecido por vários clientes com os quais tive o privilégio de trabalhar, destacando a minha capacidade de adaptação e compreensão do contexto para construir para cada cliente uma solução à medida.</p>
+        
+        <div style="background-color: rgba(255,255,255,0.1); padding: 10px; border-radius: 5px; margin-top: 10px;">
+          <p style="font-style: italic; font-size: 0.9rem;">"O que distingue para um gestor de recursos humanos o Samuel dos demais consultores é a sua capacidade de entender o contexto e a cultura da organização, propondo soluções adequadas à realidade e que realmente criam um impacto positivo e transformador."</p>
+          <p style="text-align: right; font-weight: bold;">- Diretor de Transformação, Empresa líder do setor de tecnologia</p>
 <section id="autor" class="container" style="padding: 3rem 0; margin-top: 2rem;">
   <h2 style="color: #2c3e50; margin-bottom: 2rem; text-align: center;">SOBRE O AUTOR</h2>
 
@@ -45,4 +105,14 @@
       </div>
     </a>
   </div>
+</section>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  
+<div style="margin-top: 2rem; text-align: center; font-size: 0.8rem; padding: 20px;">
+  <p>Licenciado em Gestão de Recursos Humanos pelo ISCTE-IUL | Parte do IBS TOP 15+ | Gestão de Conflitos e Negociação - Nova SBE | Certificação em Digital Transformation </p>
+</div>
 </section>
