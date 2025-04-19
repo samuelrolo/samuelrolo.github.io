@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    {
+      "name": "Ana Silva",
+      "title": "Diretora de Recursos Humanos na Empresa XYZ",
+      "avatar": "https://randomuser.me/api/portraits/women/45.jpg",
+      "text": "O Samuel é um profissional excepcional que trouxe uma nova perspectiva para nossa equipe de liderança. Sua abordagem humana e estratégica nos ajudou a navegar por um período de transformação complexo com confiança e clareza."
+    },
+    {
+      "name": "João Pereira",
+      "title": "CEO da Empresa ABC",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+      "text": "Trabalhar com o Samuel foi uma experiência transformadora para nossa organização. Sua capacidade de combinar visão estratégica com empatia genuína criou um ambiente onde a mudança foi abraçada em vez de temida."
+    },
+    {
+      "name": "Maria Costa",
+      "title": "Gerente de Desenvolvimento Organizacional",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
+      "text": "O Samuel tem um dom para simplificar o complexo e tornar a mudança acessível a todos os níveis da organização. Sua orientação foi fundamental para o sucesso do nosso programa de transformação cultural."
+    }
+  ]
+}

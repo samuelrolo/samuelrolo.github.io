@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Share2Inspire - Samuel Rolo</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Seção da Newsletter -->
+        <section class="newsletter-section">
+            <div class="section-header">
+                <h2>People Management Challenges</h2>
+                <p>Resumo de desafios de gestão de pessoas que inspiram práticas de gestão sustentáveis</p>
+            </div>
+
+            <div class="articles-carousel">
+                <div class="articles-container" id="articlesContainer">
+                    <!-- Os artigos serão inseridos aqui via JavaScript -->
+                </div>
+                <div class="carousel-controls">
+                    <button class="carousel-control prev" id="prevArticle"><i class="fas fa-chevron-left"></i></button>
+                    <button class="carousel-control next" id="nextArticle"><i class="fas fa-chevron-right"></i></button>
+                </div>
+            </div>
+
+            <div class="subscription-container">
+                <a href="https://www.linkedin.com/newsletters/people-management-challenges-7258968797414342657/" target="_blank">
+                    <i class="fab fa-linkedin"></i> Subscrever Newsletter
+                </a>
+            </div>
+        </section>
+
+        <!-- Widget de Recomendações do LinkedIn -->
+        <section class="recommendations-section">
+            <div class="section-header">
+                <h2>O que dizem sobre mim</h2>
+            </div>
+            <div class="linkedin-badge">
+                <i class="fab fa-linkedin"></i> LinkedIn Recommendations
+            </div>
+
+            <div class="recommendations-carousel">
+                <div class="recommendations-container" id="recommendationsContainer">
+                    <!-- As recomendações serão inseridas aqui via JavaScript -->
+                </div>
+                <div class="carousel-controls">
+                    <button class="carousel-control prev" id="prevRecommendation"><i class="fas fa-chevron-left"></i></button>
+                    <button class="carousel-control next" id="nextRecommendation"><i class="fas fa-chevron-right"></i></button>
+                </div>
+            </div>
+
+            <div class="view-more-container">
+                <a href="https://www.linkedin.com/in/samuelrolo" class="view-more-button" target="_blank">
+                    <i class="fab fa-linkedin"></i> Ver mais recomendações
+                </a>
+            </div>
+        </section>
+
+        <!-- Widget de Publicações do Instagram -->
+        <section class="instagram-section">
+            <div class="section-header">
+                <h2>Share2Inspire no Instagram</h2>
+            </div>
+            <div class="instagram-badge">
+                <i class="fab fa-instagram"></i> Últimas Publicações
+            </div>
+
+            <div class="instagram-grid" id="instagramGrid">
+                <!-- As publicações do Instagram serão inseridas aqui via JavaScript -->
+            </div>
+
+            <div class="follow-container">
+                <a href="https://www.instagram.com/share2inspire" class="follow-button" target="_blank">
+                    <i class="fab fa-instagram"></i> Seguir no Instagram
+                </a>
+            </div>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

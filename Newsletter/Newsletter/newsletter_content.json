@@ -1,0 +1,25 @@
+{
+  "articles": [
+    {
+      "title": "Gerindo a Mudança em Tempos de Incerteza",
+      "date": "15 de Março de 2025",
+      "image": "gerir_mudanca_incerteza.jpeg",
+      "summary": "Neste artigo, exploramos estratégias práticas para líderes que precisam navegar por processos de transformação organizacional em ambientes voláteis e incertos. Descubra como criar uma cultura de adaptabilidade e resiliência.",
+      "link": "https://www.linkedin.com/pulse/gerindo-mudança-em-tempos-de-incerteza-samuel-rolo"
+    },
+    {
+      "title": "Liderança e Vulnerabilidade: Uma Força, Não Uma Fraqueza",
+      "date": "28 de Fevereiro de 2025",
+      "image": "leadership_vulnerability_article.png",
+      "summary": "A vulnerabilidade autêntica pode ser uma das ferramentas mais poderosas no arsenal de um líder moderno. Neste artigo, discutimos como abraçar a vulnerabilidade pode fortalecer conexões, construir confiança e impulsionar a inovação nas equipes.",
+      "link": "https://www.linkedin.com/pulse/liderança-e-vulnerabilidade-uma-força-não-fraqueza-samuel-rolo"
+    },
+    {
+      "title": "Natal, Família, Amor e Gratidão",
+      "date": "20 de Dezembro de 2024",
+      "image": "natal_familia_amor_gratidao.png",
+      "summary": "Nesta época festiva, reflito sobre a importância de equilibrar vida profissional e pessoal, e como cultivar gratidão e conexões significativas pode nos tornar não apenas pessoas mais felizes, mas também líderes mais eficazes.",
+      "link": "https://www.linkedin.com/pulse/natal-família-amor-e-gratidão-samuel-rolo"
+    }
+  ]
+}
